@@ -1,0 +1,6 @@
+Part 3:
+Progress - 120, 0, 0
+Progress (module trailer) - 100, 0, 20
+Module retriever - 40, 40, 40
+Exclude - 0, 0, 120
+Exclude - 0, 0, 120
